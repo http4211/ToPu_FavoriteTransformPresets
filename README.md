@@ -3,7 +3,7 @@
 
 <img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/e44bda7a-391c-4ce6-a46a-024d5427ab85" />
 
-・5つまでツールヘッダーに表示できるようになっています。
+・12までツールヘッダーに表示できるようになっています。
 
 ・アイコンはスロットごとに自由に指定できます。
 
