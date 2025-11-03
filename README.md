@@ -1,0 +1,2 @@
+# ToPu_FavoriteTransformPresets
+お気に入りのトランスフォーム設定を最大5つまで保存＆ワンクリックで適用
